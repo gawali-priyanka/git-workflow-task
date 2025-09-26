@@ -31,13 +31,13 @@ Build a version-controlled project using Git and GitHub, following proper branch
 
 ## 📸 Screenshots
 1. **Branch List:**  
-   ![Branches](screenshots/branch-list.png)
+   ![Branches](https://github.com/gawali-priyanka/git-workflow-task/blob/main/screenshots/Branch-List.png?raw=true)
 
 2. **Pull Request Page:**  
-   ![Pull Request](screenshots/pull-request.png)
+   ![Pull Request](https://github.com/gawali-priyanka/git-workflow-task/blob/main/screenshots/Pull-Request-Page.png?raw=true)
 
 3. **Git Tag List:**  
-   ![Git Tag](screenshots/git-tag.png)
+   ![Git Tag](https://github.com/gawali-priyanka/git-workflow-task/blob/main/screenshots/Tag.png?raw=true)
 
 ---
 
