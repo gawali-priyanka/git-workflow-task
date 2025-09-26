@@ -18,7 +18,7 @@ Build a version-controlled project using Git and GitHub, following proper branch
 - **.gitignore** – Excludes unnecessary files (logs, temp files, secrets)  
 - **documentation.md** – Markdown summary of Git workflow, tasks, and steps
 ---
-## 🚀 Workflow Summary
+## Workflow Summary
 1. Initialized a local Git repository and pushed to GitHub  
 2. Created `dev` and `feature` branches  
 3. Performed development in `feature` branch  
@@ -29,7 +29,7 @@ Build a version-controlled project using Git and GitHub, following proper branch
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 1. **Branch List:**  
    ![Branches](https://github.com/gawali-priyanka/git-workflow-task/blob/main/screenshots/Branch-List.png?raw=true)
 
